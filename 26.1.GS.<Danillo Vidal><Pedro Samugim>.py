@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #INTEGRANTES:
 """
-RM: 572039 - Danillo Vidfal
+RM: 572039 - Danillo Vidal
 RM: 568920 - Pedro Samugim    
 """
 qtdEventos = int(input("Insira a quantidade de eventos: "))
