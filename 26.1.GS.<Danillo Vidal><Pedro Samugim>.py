@@ -1,4 +1,9 @@
 # -*- coding: utf-8 -*-
+#INTEGRANTES:
+"""
+RM: 572039 - Danillo Vidfal
+RM: 568920 - Pedro Samugim    
+"""
 qtdEventos = int(input("Insira a quantidade de eventos: "))
 
 lista_eventos = []
